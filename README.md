@@ -13,5 +13,3 @@ This is the boilerplate for the Time Calculator project. Instructions for buildi
 # Budget App
 
 This is the boilerplate for the Budget App project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
-
-This doesn't pass all the test, but here I'm not quite sure why as the output looks the same and the test doesn't really show what's wrong. Basically it just doesn't 100% match the expected output.
