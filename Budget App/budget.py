@@ -70,6 +70,7 @@ def create_spend_chart(categories):
             else:
                 spend_chart += "   "
         percentage -= 10
+        spend_chart += " "
     spend_chart += "\n" + " "*4 + "-"*10
     categories_in_str = []
     for category in categories:
@@ -82,4 +83,5 @@ def create_spend_chart(categories):
                 spend_chart += str_category[i].center(3)
             else:
                 spend_chart += " "*3
+        spend_chart += " "
     return spend_chart
